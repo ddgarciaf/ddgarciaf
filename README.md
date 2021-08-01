@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 Mi nombre es David Garcí</h1>
+<h1 align="center">Hola 👋 Mi nombre es David García</h1>
 <h3 align="center">Soy estudiante de Ing. Informática y un apasionado por la ciberseguridad.</h3>
 
 - 🔭 Actualmente estudio **Ingeniería informática**
