@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **CTFs, CyberSecurity and Python**
 
-- 📫 How to reach me **ddgarciaf@gmail.com**
+- 📫 Contact me: **ddgarciaf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
